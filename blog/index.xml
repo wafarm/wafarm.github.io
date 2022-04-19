@@ -8,12 +8,13 @@
     <language>zh-cn</language>
     <lastBuildDate>Tue, 19 Apr 2022 09:28:08 +0800</lastBuildDate><atom:link href="https://wafarm.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://wafarm.github.io/blog/posts/first/</link>
+      <title>样式测试</title>
+      <link>https://wafarm.github.io/blog/posts/test/</link>
       <pubDate>Tue, 19 Apr 2022 09:28:08 +0800</pubDate>
       
-      <guid>https://wafarm.github.io/blog/posts/first/</guid>
-      <description>This is my first post.</description>
+      <guid>https://wafarm.github.io/blog/posts/test/</guid>
+      <description>一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 // C++ 代码块 #include &amp;lt;iostream&amp;gt;using namespace std; int main() {  cout &amp;lt;&amp;lt; &amp;#34;Hello, World!&amp;#34;;  return 0; } $\LaTeX\text{测试}$
+$$ \text{block}\ \LaTeX\ \text{test} $$</description>
     </item>
     
   </channel>
